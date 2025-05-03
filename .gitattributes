@@ -1,0 +1,5 @@
+frontend/public/logo.jpg filter=lfs diff=lfs merge=lfs -text
+frontend/public/*.png filter=lfs diff=lfs merge=lfs -text
+frontend/public/*.jpg filter=lfs diff=lfs merge=lfs -text
+frontend/public/*.jpeg filter=lfs diff=lfs merge=lfs -text
+frontend/public/*.gif filter=lfs diff=lfs merge=lfs -text
